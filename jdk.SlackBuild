@@ -19,7 +19,7 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: jdk.SlackBuild,v 1.7 2017/09/07 07:03:50 gsotirov Exp $
+# $Id: jdk.SlackBuild,v 1.8 2017/10/22 09:49:38 gsotirov Exp $
 #
 # Based on the origninal Slackware scripts
 # Copyright 2008, 2009, 2010, 2011  Patrick J. Volkerding, Sebeka, MN, USA
@@ -46,8 +46,8 @@
 . ../../slack-package.conf
 
 NAME=jdk
-VERSION='8u144'
-FULL_VER='1.8.0_144'
+VERSION='8u152'
+FULL_VER='1.8.0_152'
 ARCH=${ARCH:-i586}
 if [ "$ARCH" == "i386" -o "$ARCH" == "i486" -o "$ARCH" == "i586" -o "$ARCH" == "i686" ]; then
   ARCH=i586
