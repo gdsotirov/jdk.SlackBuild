@@ -13,6 +13,8 @@ jdk: package contains everything you need to run Java(TM).
 jdk:
 jdk: For additional information, refer to this web page:
 jdk:   http://java.com/
+jdk: NOTE: By installing this package you are *accepting* Oracle Binary Code
+jdk: License Agreement for Java SE. See link below for details
+jdk: http://www.oracle.com/technetwork/java/javase/terms/license/index.html
 jdk:
-jdk:
-jdk:
+jdk: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
